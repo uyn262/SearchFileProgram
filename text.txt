@@ -1,0 +1,1 @@
+Require user enter a txt file include multiple rows. Enter a word and then count number of occurrences of this word in a file.
